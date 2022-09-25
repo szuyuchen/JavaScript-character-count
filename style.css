@@ -1,0 +1,45 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.wrapper {
+  background-color: #fff;
+  padding: 5rem;
+  width: 50%;
+  margin: 0 auto;
+}
+
+.count {
+  background-color: #151515;
+  width: 100%;
+  padding: 7px;
+  position: relative;
+  display: flex;
+  justify-content: space-around;
+  text-align: center;
+}
+
+.count p {
+  color: #eee;
+}
+
+.count h4 {
+  color: #fff;
+  font-size: 25px;
+}
+
+.container {
+  background-color: #fff;
+  border: 1px solid #151515;
+  padding: 30px 20px;
+  box-shadow: 0 30px 50px rgba(100, 75, 154, 0.1);
+}
+
+textarea {
+  font-size: 20px;
+  min-height: 3rem;
+  max-height: 30vh;
+  width: 100%;
+}
