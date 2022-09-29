@@ -1,4 +1,4 @@
-# character-count
+# JavaScript-character-count
 
 ### Purpose: 
 
